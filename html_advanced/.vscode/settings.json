@@ -1,5 +1,5 @@
 {
     "editor.wordWrap": "bounded",
     "editor.minimap.autohide": false,
-    "html.autoClosingTags": false
+    "html.autoClosingTags": true
 }
