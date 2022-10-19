@@ -143,14 +143,14 @@ h1, h2, h3, h4, h5, h6 {
     margin: var(--section-tagline-margin);
 }
 
-ul.row {
+.row ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
 .col-1-3 {
-    width: 33%;
+    width: 0.3333em;
     float: left;
     padding: 0.5rem;
 }
@@ -167,7 +167,7 @@ ul.row {
     color: var(--text-color);
 }
 
-ul.footer {
+.footer ul {
     text-align: right;
 }
 
